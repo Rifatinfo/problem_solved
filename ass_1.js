@@ -15,4 +15,4 @@ function calculateTax(income, expenses) {
     }
 }
 
-const result = calculateTax(10000, 3000);
+const result = calculateTax(7000, 7000);
