@@ -16,4 +16,3 @@ function calculateTax(income, expenses) {
 }
 
 const result = calculateTax(10000, 3000);
-console.log(result);
